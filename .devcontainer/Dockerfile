@@ -12,6 +12,7 @@ RUN apt-get update && apt-get upgrade -y && \
     graphviz \
     net-tools \
     openssh-client \
+    python3-dev \
     python3-pyqt5 \
     python3-venv \
     vim \
