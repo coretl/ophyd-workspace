@@ -45,7 +45,7 @@ connect to the user podman instance running on the host.
   - choose a name and organization for your workspace project
 - Clone the new repo as a peer to the project or projects that it will manage
 - cd into the project folder and launch vscode
-  - code vscode-python3.code-workspace
+  - code dev-u22.code-workspace
 - Click "Reopen in a Container" when prompted
 - Add as many peer projects as you wish to the workspace
 - choose ``Python: Select interpreter`` command (access via ctrl-shift-P) 
